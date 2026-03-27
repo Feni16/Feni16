@@ -1,5 +1,5 @@
 ### About Me:
-👋** Hi, I'm Feni Bhuva**
+
 🚀 **Passionate Software Engineer** | 💻 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast**
 
 - 🎓 IT Student at UVPCE, Ganpat University (Graduating June 2026)
