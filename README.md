@@ -4,7 +4,7 @@
 
 - 🎓 IT Student at UVPCE, Ganpat University (Graduating June 2026)
 - 🌱 Currently learning: **Java**, **JavaScript**, **Spring Boot**
-- 💬 Love to discuss: **Java**, **JavaScript**, **Node.js**, **MERN Stack**, and **Web Development Trends**
+- 💬 Love to discuss: **Java**, **JavaScript**, **Node.js**, and **Web Development Trends**
 - ⚡ Fun fact: I write code like I cook — sometimes it works, sometimes the smoke alarm goes off. 🚨🍝
 
 ---
