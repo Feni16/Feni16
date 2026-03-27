@@ -1,4 +1,4 @@
-### 💫 About Me:
+  ### 💫 About Me:
 
 🚀 **Passionate Software Engineer** | 💻 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast**
 
@@ -36,6 +36,36 @@
 
 ---
 
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Feni16&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feni16&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="40%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feni16&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="60%" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Feni16&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Feni16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
 
 
 ⭐️ *Feel free to explore my repositories and connect with me!*
