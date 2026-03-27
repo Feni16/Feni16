@@ -1,4 +1,4 @@
-### About Me:
+### 💫 About Me:
 
 🚀 **Passionate Software Engineer** | 💻 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast**
 
@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I write code like I cook — sometimes it works, sometimes the smoke alarm goes off. 🚨🍝
 
 ---
-### 📫 Socials
+### 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_feni_1_6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Feni-Bhuva)
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tech Stack:
+### 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
