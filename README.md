@@ -1,5 +1,5 @@
-### 👋 Hi, I'm Feni Bhuva
-
+### About Me:
+👋** Hi, I'm Feni Bhuva**
 🚀 **Passionate Software Engineer** | 💻 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast**
 
 - 🎓 IT Student at UVPCE, Ganpat University (Graduating June 2026)
@@ -8,8 +8,14 @@
 - ⚡ Fun fact: I write code like I cook — sometimes it works, sometimes the smoke alarm goes off. 🚨🍝
 
 ---
+### 📫 Socials
 
-### 🛠️ Language and Tools
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/feni-bhuva)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Feni16)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:fenibhuva@gmail.com)
+
+---
+### 🛠️ Tech Stack:
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
@@ -29,49 +35,6 @@
 
 ---
 
-### 📚 Education
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| **B.E. Information Technology** | UVPCE, Ganpat University | 2026 |
-| **Diploma in Computer Engineering** | BSPP, Ganpat University | 2023 |
-| **SSC** | Shree Jaykorbai Vidhyamandir, Kherva | 2020 |
-
----
-
-### 💼 Experience
-
-**Full-Stack Developer Intern** @ *NovaSphere Technologies L.L.P.*  
-*Present*  
-Building scalable web apps using HTML, CSS, JavaScript, Python (Flask), MySQL, and REST APIs.
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **Capstone Portal (CPMS)** | Spring Boot, React.js, SQL | Full-stack project management system with role-based access for Students, Guides, and Coordinators. |
-| **AI NextGen Coach** | Python, NLP, ML, Flask | AI-powered career guidance chatbot with personalized recommendations. |
-| **AI Electric Service System** | Flask, OpenAI API, MySQL | Smart service management with AI-powered issue summarization and technician assignment. |
-
----
-
-### 📜 Certifications & Achievements
-
-- 🎓 **IEEE Women in Engineering** – Student Member *(2024)*
-- 🎨 **Graphics Design** – The ArtForge *(2024)*
-- 🔐 **Cyber Security & Hacking Workshop** – Ganpat University *(2023)*
-- 🐍 **Python Programming** – Brainybeam Technologies *(2022)*
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/feni-bhuva)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Feni16)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:fenibhuva@gmail.com)
-
----
 
 ⭐️ *Feel free to explore my repositories and connect with me!*
